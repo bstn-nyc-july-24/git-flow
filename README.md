@@ -24,3 +24,4 @@ Currently, two official plugins are available:
 - `git pull` - (opposite of push) === git fetch && git merge
 - `git reset [--soft || --hard] <commit hash>`
 - `git rm` - remove files from working tree
+- `git fetch` - [come back to this]
